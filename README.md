@@ -2,7 +2,7 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=xUnderGame)
 
 ## Connect with me!
-<a href="#">
+<a href="">
   <img align="left" alt="UnderGame's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://discordapp.com/channels/@me/UnderGame#4540/">
@@ -11,7 +11,7 @@
 <a href="https://twitter.com/xUnderGame">
   <img align="left" alt="UnderGame | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.youtube.com/channel/c/UnderGame">
+<a href="https://www.youtube.com/c/UnderGame">
   <img align="left" alt="UnderGame's YouTube" width="22px" src="https://github.com/peterthehan/peterthehan/blob/main/assets/youtube.svg" />
 </a>
 <a href="https://steamcommunity.com/id/undergame"> 

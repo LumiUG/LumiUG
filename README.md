@@ -3,22 +3,22 @@
 
 ## Connect with me!
 <a href="">
-  <img align="left" alt="UnderGame's LinkedIN" width="22px" src="https://github.com/xUnderGame/xUnderGame/images/linkedin.svg" />
+  <img align="left" alt="UnderGame's LinkedIN" width="22px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/linkedin.svg" />
 </a>
 <a href="https://discordapp.com/channels/@me/UnderGame#4540/">
-  <img align="left" alt="UnderGame's Discord" width="22px" src="https://github.com/xUnderGame/xUnderGame/images/discord.svg" />
+  <img align="left" alt="UnderGame's Discord" width="22px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/discord.svg" />
 </a>
 <a href="https://twitter.com/xUnderGame">
-  <img align="left" alt="UnderGame | Twitter" width="22px" src="https://github.com/xUnderGame/xUnderGame/images/twitter.svg" />
+  <img align="left" alt="UnderGame | Twitter" width="22px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/twitter.svg" />
 </a>
 <a href="https://www.youtube.com/c/UnderGame">
-  <img align="left" alt="UnderGame's YouTube" width="22px" src="https://github.com/xUnderGame/xUnderGame/images/youtube.svg" />
+  <img align="left" alt="UnderGame's YouTube" width="22px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/youtube.svg" />
 </a>
 <a href="https://steamcommunity.com/id/undergame"> 
-  <img align="left" alt="UnderGame's Steam" width="22px" src="https://github.com/xUnderGame/xUnderGame/images/steam.png" />
+  <img align="left" alt="UnderGame's Steam" width="22px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/steam.png" />
 </a>
 <a href="https://soundcloud.com/undergame">
-  <img align="left" alt="UnderGame's Soundcloud" width="22px" src="https://github.com/xUnderGame/xUnderGame/images/soundcloud.svg" />
+  <img align="left" alt="UnderGame's Soundcloud" width="22px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/soundcloud.svg" />
 </a><br>
 
 ## About me.

@@ -1,6 +1,5 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25> Yo! I'm UnderGame.</h1>
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=xUnderGame)
+<h3 align="center">A current student in Barcelona who's passionate about creating and learning new things!</h3>
 
 ## Connect with me!
 <a href="#">
@@ -27,7 +26,8 @@ Hey, I'm **UnderGame**, a self-taught developer with many skills from **Spain**.
 
 I'm **18** years old and im currently studing "**DAMv**", which stands for "Cross-platform Applications Development" or something along those lines.
 
-**I love group projects!** Even though my GitHub doesn't reflect so...
+**I love group projects!** Even though my GitHub doesn't reflect so...<br>
+<img align="center" src="https://komarev.com/ghpvc/?username=xUnderGame" >
 
 ## Programming Languages
 <a href="https://www.w3.org/html/">

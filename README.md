@@ -1,3 +1,9 @@
+
+<!-- <div align=center> -->
+<!--	<a href="http://donate.ugdev.xyz"> -->
+<!--		<img src="https://i.imgur.com/WpOu6c0.png" width="400px" height="200px"> -->
+<!--	</a> -->
+<!-- </div> -->
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25> Yo! I'm UnderGame.</h1>
 <h3 align="center">A current student in Barcelona who's passionate about creating and learning new things!</h3>
 

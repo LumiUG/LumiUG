@@ -31,7 +31,7 @@
 </a><br>
 
 ## About me
-Hey, I'm **UnderGame**, a self-taught developer with many skills from **Spain**. I have a passion for developing projects that require a lot of critical thinking and creative ways to attack a problem. I take pride, and assure of the quality in every project I start and finish.
+Hey, I'm **UnderGame**, a student and developer with many skills from **Spain**. I have a passion for developing projects that require a lot of critical thinking and creative ways to attack a problem. I take pride, and assure of the quality in every project I start and finish.
 
 I'm **18** years old and im currently studing "**DAMv**", which stands for "Cross-platform Applications Development" or something along those lines.
 

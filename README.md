@@ -31,9 +31,9 @@
 </a><br>
 
 ## About me
-Hey, I'm **UnderGame**, a student and developer with many skills from **Spain**. I have a passion for developing projects that require a lot of critical thinking and creative ways to attack a problem. I take pride, and assure of the quality in every project I start and finish.
+Hey, I'm **UnderGame**, a student and developer with many skills from Spain. I have a passion for developing projects just for the fun of it.<br>I'm very excited about working with new people and learning new things!
 
-I'm **18** years old and im currently studing "**DAMv**", which stands for "Cross-platform Applications Development" or something along those lines.
+Right now, I'm **18** years old and currently studing development of cross-platform applications and videogames.
 
 **I love group projects!** Even though my GitHub doesn't reflect so...<br>
 <img align="center" src="https://komarev.com/ghpvc/?username=xUnderGame" >

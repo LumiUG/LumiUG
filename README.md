@@ -33,7 +33,7 @@
 ## About me
 Hey, I'm **UnderGame**, a student and developer with many skills from Spain. I have a passion for developing projects just for the fun of it.<br>I'm very excited about working with new people and learning new things!
 
-Right now, I'm **18** years old and currently studing development of cross-platform applications and videogames.
+Right now, I'm **18** years old and currently studying development of cross-platform applications and video games.
 
 **I love group projects!** Even though my GitHub doesn't reflect so...<br>
 <img align="center" src="https://komarev.com/ghpvc/?username=xUnderGame" >

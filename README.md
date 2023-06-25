@@ -8,9 +8,6 @@
 <h3 align="center">A current student in Barcelona who's passionate about creating and learning new things!</h3>
 
 ## Connect with me!
-<a href="#">
-	<img align="left" alt="UnderGame's LinkedIN" width="22px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/linkedin.svg" />
-</a>
 <a href="https://www.fiverr.com/undergame">
 	<img align="left" alt="UnderGame's Fiverr" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Fiverr_Logo_09.2020.svg/245px-Fiverr_Logo_09.2020.svg.png" />
 </a>

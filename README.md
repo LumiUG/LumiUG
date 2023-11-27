@@ -34,7 +34,7 @@ I'm mostly retired from making Discord bots and Minecraft Origins at the moment.
 	<img align="left" alt="HTML W3Schools" width="22px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/html5.svg" />
 </a>
 <a href="https://developer.mozilla.org/docs/Web/JavaScript">
-	<img align="left" alt="Javascript" width="22px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/javascript.png" />
+	<img align="left" alt="Javascript" width="22px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/javascript.svg" />
 </a>
 <a href="https://www.w3schools.com/css">
 	<img align="left" alt="CSS" width="22px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/css.svg" />

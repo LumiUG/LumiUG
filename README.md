@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25> Yo! I'm UnderGame.</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25> Yo! I'm ug.</h1>
 <h3 align="center">A student in Barcelona who's passionate about creating and learning new things!</h3>
 
 ## Connect with me!
@@ -25,8 +25,6 @@
 ## About me
 Hey, I'm UnderGame, a student and developer with many skills from Spain! Im learning Unity, C#, webdev, and other random stuff that I find interesting.<br>
 I'm mostly retired from making Discord bots and Minecraft Origins at the moment. I'm moving on to gamedev <3 (You'll hear from me soon...)<br>
-
-**I love group projects!** I know GitHub doesn't show them... For now!<br>
 <img align="center" src="https://komarev.com/ghpvc/?username=xUnderGame" >
 
 ## Programming Languages

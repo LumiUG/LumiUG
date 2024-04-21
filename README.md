@@ -1,4 +1,4 @@
-## Connect with me!
+<!-- ## Connect with me!
 <a href="https://www.fiverr.com/undergame">
 	<img align="left" alt="UnderGame's Fiverr" width="22px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/fiverr.png" />
 </a>
@@ -16,7 +16,7 @@
 </a>
 <a href="https://bandcamp.com/undergame">
 	<img align="left" alt="UnderGame's Bandcamp" width="22px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/bandcamp.png" />
-</a><br>
+</a><br> -->
 
 ## About me
 I'm ug, a student and developer with many skills from Spain! Im learning Unity, C#, webdev, and other random stuff that I find interesting.<br>

@@ -30,14 +30,14 @@ I'm ug, an indie developer with many skills from Spain! Im learning Unity, C#, w
 <a href="https://git-scm.com">
 	<img align=left alt="Git" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/git.svg"/>
 </a>
-<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
-	<img align=left alt="Bash" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/bash.png"/>
-</a>
 <a href="https://unity.com">
 	<img align=left alt="Unity" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/unity.png"/>
 </a>
 <a href="https://www.unrealengine.com">
 	<img align=left alt="Unreal Engine" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/unreal.svg"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
+	<img align=left alt="Bash" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/bash.png"/>
 </a><br>
 
 ## GitHub Stats

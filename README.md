@@ -38,7 +38,7 @@ I'm ug, an indie developer with many skills from Spain! Im learning Unity, C#, w
 </a>
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
 	<img align=left alt="Bash" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/bash.png"/>
-</a><br>
+</a><br><br>
 
 ## GitHub Stats
 <div align=center href="https://github.com/anuraghazra/github-readme-stats">

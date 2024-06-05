@@ -3,41 +3,41 @@ I'm ug, an indie developer with many skills from Spain! Im learning Unity, C#, w
 <img src="https://komarev.com/ghpvc/?username=xUnderGame">
 
 ## Programming Languages / Tech
-<a align=left href="https://www.w3.org/html">
-	<img alt="HTML W3Schools" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/html5.svg"/>
+<a href="https://www.w3.org/html">
+	<img align=left alt="HTML W3Schools" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/html5.svg"/>
 </a>
-<a align=left href="https://developer.mozilla.org/docs/Web/JavaScript">
-	<img alt="Javascript" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/javascript.svg"/>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript">
+	<img align=left alt="Javascript" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/javascript.svg"/>
 </a>
-<a align=left href="https://www.w3schools.com/css">
-	<img alt="CSS" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/css.svg"/>
+<a href="https://www.w3schools.com/css">
+	<img align=left alt="CSS" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/css.svg"/>
 </a>
-<a align=left href="https://www.json.org/json-es.html">
-	<img alt="Json" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/json.svg"/>
+<a href="https://www.json.org/json-es.html">
+	<img align=left alt="Json" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/json.svg"/>
 </a>
-<a align=left href="https://www.python.org">
-	<img alt="Python" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/python.svg"/>
+<a href="https://www.python.org">
+	<img align=left alt="Python" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/python.svg"/>
 </a>
-<a align=left href="https://learn.microsoft.com/es-es/dotnet/csharp">
-	<img alt="CSharp" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/csharp.png"/>
+<a href="https://learn.microsoft.com/es-es/dotnet/csharp">
+	<img align=left alt="CSharp" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/csharp.png"/>
 </a>
-<a align=left href="https://wikipedia.org/wiki/C%2B%2B">
-	<img alt="C++" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/cpp.svg"/>
+<a href="https://wikipedia.org/wiki/C%2B%2B">
+	<img align=left alt="C++" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/cpp.svg"/>
 </a>
-<a align=left href="https://minecraft.fandom.com/wiki/Function_(Java_Edition)">
-	<img alt="McFunction" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/mcfunction.png"/>
+<a href="https://minecraft.fandom.com/wiki/Function_(Java_Edition)">
+	<img align=left alt="McFunction" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/mcfunction.png"/>
 </a>
-<a align=left href="https://git-scm.com">
-	<img alt="Git" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/git.svg"/>
+<a href="https://git-scm.com">
+	<img align=left alt="Git" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/git.svg"/>
 </a>
-<a align=left href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
-	<img alt="Bash" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/bash.png"/>
+<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
+	<img align=left alt="Bash" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/bash.png"/>
 </a>
-<a align=left href="https://unity.com">
-	<img alt="Unity" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/unity.png"/>
+<a href="https://unity.com">
+	<img align=left alt="Unity" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/unity.png"/>
 </a>
-<a align=left href="https://www.unrealengine.com">
-	<img alt="Unreal Engine" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/unreal.svg"/>
+<a href="https://www.unrealengine.com">
+	<img align=left alt="Unreal Engine" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/unreal.svg"/>
 </a><br>
 
 ## GitHub Stats

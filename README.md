@@ -1,58 +1,43 @@
-<!-- ## Connect with me!
-<a href="https://www.fiverr.com/undergame">
-	<img align="left" alt="UnderGame's Fiverr" width="22px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/fiverr.png" />
-</a>
-<a href="https://discordapp.com/channels/@me/UnderGame/">
-	<img align="left" alt="UnderGame's Discord" width="22px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/discord.svg" />
-</a>
-<a href="https://twitter.com/xUnderGame">
-	<img align="left" alt="UnderGame | Twitter" width="22px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/twitter.svg" />
-</a>
-<a href="https://www.youtube.com/c/UnderGame">
-	<img align="left" alt="UnderGame's YouTube" width="22px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/youtube.svg" />
-</a>
-<a href="https://steamcommunity.com/id/undergame"> 
-  <img align="left" alt="UnderGame's Steam" width="22px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/steam.png" />
-</a>
-<a href="https://bandcamp.com/undergame">
-	<img align="left" alt="UnderGame's Bandcamp" width="22px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/bandcamp.png" />
-</a><br> -->
-
 ## About me
-I'm ug, a student and developer with many skills from Spain! Im learning Unity, C#, webdev, and other random stuff that I find interesting.<br>
-I'm mostly retired from making Discord bots and Minecraft Origins at the moment. I'm moving on to gamedev <3 (You'll hear from me soon...)<br>
-<img align="center" src="https://komarev.com/ghpvc/?username=xUnderGame" >
+I'm ug, an indie developer with many skills from Spain! Im learning Unity, C#, webdev, and other random stuff that I find interesting.<br>
+<img src="https://komarev.com/ghpvc/?username=xUnderGame">
 
-## Programming Languages
-<a href="https://www.w3.org/html/">
-	<img align="left" alt="HTML W3Schools" width="22px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/html5.svg" />
+## Programming Languages / Tech
+<a href="https://www.w3.org/html">
+	<img alt="HTML W3Schools" width="22px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/html5.svg"/>
 </a>
 <a href="https://developer.mozilla.org/docs/Web/JavaScript">
-	<img align="left" alt="Javascript" width="22px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/javascript.svg" />
+	<img alt="Javascript" width="22px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/javascript.svg"/>
 </a>
 <a href="https://www.w3schools.com/css">
-	<img align="left" alt="CSS" width="22px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/css.svg" />
+	<img alt="CSS" width="22px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/css.svg"/>
 </a>
 <a href="https://www.json.org/json-es.html">
-	<img align="left" alt="Json" width="22px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/json.svg" />
+	<img alt="Json" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/json.svg"/>
 </a>
-<a href="https://www.python.org/">
-	<img align="left" alt="Python" width="22px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/python.svg" />
+<a href="https://www.python.org">
+	<img alt="Python" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/python.svg"/>
 </a>
-<a href="https://learn.microsoft.com/es-es/dotnet/csharp/">
-	<img align="left" alt="CSharp" width="22px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/csharp.png" />
+<a href="https://learn.microsoft.com/es-es/dotnet/csharp">
+	<img alt="CSharp" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/csharp.png"/>
+</a>
+<a href="https://wikipedia.org/wiki/C%2B%2B">
+	<img alt="C++" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/cpp.svg"/>
 </a>
 <a href="https://minecraft.fandom.com/wiki/Function_(Java_Edition)">
-	<img align="left" alt="McFunction" width="22px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/mcfunction.png" />
+	<img alt="McFunction" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/mcfunction.png"/>
 </a>
-<a href="https://git-scm.com/">
-	<img align="left" alt="Git" width="22px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/git.svg" />
+<a href="https://git-scm.com">
+	<img alt="Git" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/git.svg"/>
 </a>
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
-	<img align="left" alt="Bash" width="22px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/bash.png" />
+	<img alt="Bash" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/bash.png"/>
 </a>
-<a href="https://www.mysql.com/">
-	<img align="left" alt="MySQL" width="22px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/mysql.svg" />
+<a href="https://unity.com">
+	<img alt="Unity" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/unity.png"/>
+</a>
+<a href="https://www.unrealengine.com">
+	<img alt="Unreal Engine" width="44px" src="https://github.com/xUnderGame/xUnderGame/blob/main/images/unreal.svg"/>
 </a><br>
 
 ## GitHub Stats

@@ -1,5 +1,5 @@
 ## About me
-I'm ug, an indie developer with many skills from Spain! Im learning Unity, C#, webdev, and other random stuff that I find interesting.<br>
+I'm Lumi, an indie developer with many skills from Spain! Im learning Unity, C#, webdev, and other random stuff that I find interesting.<br>
 <img src="https://komarev.com/ghpvc/?username=xUnderGame">
 
 ## Programming Languages / Tech

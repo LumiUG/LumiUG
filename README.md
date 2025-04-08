@@ -1,6 +1,6 @@
 ## About me
 I'm Lumi, an indie developer with many skills from Spain! Im learning Unity, C#, webdev, and other random stuff that I find interesting.<br>
-<img src="https://komarev.com/ghpvc/?username=LumiUG">
+<!-- <img src="https://komarev.com/ghpvc/?username=LumiUG"> -->
 
 ## Programming Languages / Tech
 <a href="https://www.w3.org/html">

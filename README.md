@@ -1,8 +1,13 @@
-## About me
-I'm Lumi, an indie developer with many skills from Spain! Im learning Unity, C#, webdev, and other random stuff that I find interesting.<br>
+## About me and me and me and me-
+Yo!! I'm Lumi, an indie developer with many skills from Catalonia!<br>
+I'm experienced with Unity, C#, webdev, and other stuff that I find intersting.<br>
 <!-- <img src="https://komarev.com/ghpvc/?username=LumiUG"> -->
 
-## Programming Languages / Tech
+## Experience (Programming Languages)
+Or, well, at least most of the languages are listed here.<br>
+You'll have to check my projects, oh no!<br>
+
+
 <a href="https://www.w3.org/html">
 	<img align=left alt="HTML W3Schools" width="44px" src="https://github.com/LumiUG/LumiUG/blob/main/images/html5.svg"/>
 </a>
@@ -40,8 +45,7 @@ I'm Lumi, an indie developer with many skills from Spain! Im learning Unity, C#,
 	<img align=left alt="Bash" width="44px" src="https://github.com/LumiUG/LumiUG/blob/main/images/bash.png"/>
 </a><br><br>
 
-## GitHub Stats
-<div align=center href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=LumiUG&title_color=DA7885&text_color=E1B2A2&show_icons=true&icon_color=BB8470&bg_color=170F0C&hide_border=true&locale=en"><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LumiUG&theme=gruvbox&show_icons=true&hide_border=true&locale=en&layout=compact">
-</div>
+## Obligatory GitHub Stats
+| Stats | Languages |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=LumiUG&title_color=DA7885&text_color=E1B2A2&show_icons=true&icon_color=BB8470&bg_color=170F0C&hide_border=true&locale=en"><br> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LumiUG&theme=gruvbox&show_icons=true&hide_border=true&locale=en&layout=compact"> |
